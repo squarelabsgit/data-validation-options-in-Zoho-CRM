@@ -1,5 +1,5 @@
 # Data Validation Options in Zoho CRM
-Blog Post: https://www.squarelabs.com.au/post/data-validation-options-in-zoho-crm
+Blog Post: https://www.squarelabs.com.au/blogs/post/data-validation-options-in-zoho-crm
 
 YouTube Video: https://youtu.be/3xf2xX-xYpw
 
